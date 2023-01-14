@@ -26,3 +26,8 @@ This is a monorepo containing 1 project as follows:
 - Then run ```truffle test --network besu```
 - Then run `npm start`
 - Navigate to https://localhost:3333
+
+### Install openzeppelin dependency
+```$ npm install @openzeppelin/contracts```
+<a href="https://www.npmjs.com/package/@openzeppelin/contracts#:~:text=Sign%20In-,%40openzeppelin/contracts,-4.8.1%C2%A0%E2%80%A2%C2%A0
+">openzeppelin/contract doc</a>
